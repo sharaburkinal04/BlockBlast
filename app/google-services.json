@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "548817186180",
+    "firebase_url": "https://blockblast-72e0f-default-rtdb.firebaseio.com",
+    "project_id": "blockblast-72e0f",
+    "storage_bucket": "blockblast-72e0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548817186180:android:a122fffc17446855b5c1d1",
+        "android_client_info": {
+          "package_name": "com.example.blockblast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChZW3kVnmQu1tEMjhq2PykB0RryzVGgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block Blast</string>
+    <string name="start_game">Играть</string>
+    <string name="settings">Настройки</string>
+    <string name="score">Счет</string>
+    <string name="new_game">Новая игра</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="play_again">Играть заново</string>
+    <string name="music">Мелодия</string>
+    <string name="sound">Звук</string>
+    <string name="language">Язык</string>
+    <string name="theme">Тема</string>
+    <string name="back">Назад</string>
+    <string name="records">Таблица рекордов</string>
+    <string name="records_title">Таблица рекордов</string>
+    <string name="russian">Русский</string>
+    <string name="english">English</string>
+
+
+</resources>
